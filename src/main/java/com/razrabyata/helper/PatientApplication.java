@@ -2,8 +2,8 @@ package com.razrabyata.helper;
 
 import org.springframework.boot.SpringApplication;
 
-public class PatientsApplication {
+public class PatientApplication {
     public static void main(String[] args) {
-        SpringApplication.run(PatientsApplication.class, args);
+        SpringApplication.run(PatientApplication.class, args);
     }
 }
